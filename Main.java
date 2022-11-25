@@ -3,7 +3,6 @@ import java.util.List;
 import java.util.Scanner;
 public class Main {
     public static void main(String[] args) {
-        int [][] arr = new int[4][8];
 
         while (true){
             menu();
